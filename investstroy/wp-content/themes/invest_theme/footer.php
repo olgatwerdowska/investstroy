@@ -19,7 +19,7 @@
                             <h3><?php the_title(); ?></h3>
                             <?php the_post_thumbnail( 'directions-preview', '' ) ?>
                         </div>
-                    <?
+                    <?php
                   }  
                   wp_reset_postdata();
                     ?>
