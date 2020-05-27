@@ -36,7 +36,7 @@
             <div class="col-xl-4">
                 <div class="copy">
                   <p>
-                    Copyright © 2014-<?php echo date(Y);?>
+                    Copyright © 2020
                   </p>
                   <a href="" class="footer-policy">Политика конфиденциальности</a>
                   <small>
